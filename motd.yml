@@ -1,0 +1,7 @@
+---
+- name: Konfiguracja MOTD
+  hosts: web
+  become: true
+  
+  roles:
+    - nask.system.motd
