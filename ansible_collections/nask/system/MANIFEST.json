@@ -1,0 +1,30 @@
+{
+ "collection_info": {
+  "namespace": "nask",
+  "name": "system",
+  "version": "1.0.3",
+  "authors": [
+   "your name jaja@domain.com"
+  ],
+  "readme": "README.md",
+  "tags": [],
+  "description": "EX374-example",
+  "license": [
+   "GPL-2.0-or-later"
+  ],
+  "license_file": null,
+  "dependencies": {},
+  "repository": "http://example.com/repository",
+  "documentation": "http://docs.example.com",
+  "homepage": "http://example.com",
+  "issues": "http://example.com/issue/tracker"
+ },
+ "file_manifest_file": {
+  "name": "FILES.json",
+  "ftype": "file",
+  "chksum_type": "sha256",
+  "chksum_sha256": "851009317eb9527abb1e2a557b180b36f715ec5f7ecf033cfc31285139c2e3c9",
+  "format": 1
+ },
+ "format": 1
+}

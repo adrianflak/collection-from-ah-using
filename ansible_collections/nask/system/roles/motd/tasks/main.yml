@@ -1,0 +1,12 @@
+---
+# tasks file for roles/motd
+- name: Stworzenie wiadomosci powitalnej
+  ansible.builtin.coppy
+    dest: /etc/motd
+    content: |
+    Serwer zarzadzany przez platforme AAP
+    Collection: nask.system
+  owner: root
+  group: root
+  mode: '0644'
+

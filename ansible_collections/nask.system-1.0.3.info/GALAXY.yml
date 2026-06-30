@@ -1,0 +1,8 @@
+download_url: https://20.240.163.110/api/galaxy/v3/plugin/ansible/content/published/collections/artifacts/nask-system-1.0.3.tar.gz
+format_version: 1.0.0
+name: system
+namespace: nask
+server: https://20.240.163.110/api/galaxy/
+signatures: []
+version: 1.0.3
+version_url: /api/galaxy/content/published/v3/plugin/ansible/content/published/collections/index/nask/system/versions/1.0.3/
